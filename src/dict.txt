@@ -1,0 +1,4 @@
+banana:A long curved tropical fruit with a yellow skin
+apple:A sweet red fruit;A tech company
+abandon:To leave someone;To stop having a particular idea;To leave some place
+computer: An electronic device for processing data
