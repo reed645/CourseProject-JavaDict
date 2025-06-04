@@ -55,5 +55,19 @@ Communication between client and server uses TCP sockets to ensure reliable data
 
 Below is the diagram showing the main classes and how they interact with each other in the system:
 
+<p align="center">
+  <img src="image/uml.png" alt="Class Diagram" width="600"/>
+  <br/>
+  <em>Figure 1: The class design.</em>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="image/system_diagram.png" alt="System Diagram" width="600"/>
+  <br/>
+  <em>Figure 2: The interaction between server, client, and GUI components.</em>
+</p>
+
 
 
